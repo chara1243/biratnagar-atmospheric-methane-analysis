@@ -1,22 +1,6 @@
 // =====================================================================
 // BIRATNAGAR ATMOSPHERIC METHANE STUDY
 // Sentinel-5P XCH4 and environmental drivers, 2019–2025
-//
-// OBJECTIVE 1:
-// Quantify monthly, seasonal and annual methane variability.
-//
-// OBJECTIVE 2:
-// Compare urban, peri-urban and regional-background methane.
-//
-// OBJECTIVE 3:
-// Examine relationships with rainfall, temperature, soil moisture,
-// wind, vegetation, inundation, cropland and built-up land.
-//
-// IMPORTANT:
-// The Sentinel-5P collection is filtered by month or season before
-// applying the QA mask. This prevents the 5,000-element error.
-// =====================================================================
-
 
 // =====================================================================
 // 1. CONFIGURATION
