@@ -1,0 +1,31 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+*.swp
+
+# Python environments (if added later)
+venv/
+.env/
+__pycache__/
+.ipynb_checkpoints/
+
+# Generated research outputs
+*.tif
+*.tiff
+*.csv
+*.shp
+*.shx
+*.dbf
+*.prj
+*.zip
+
+# Credentials and secrets
+.env
+*.key
+credentials.json
