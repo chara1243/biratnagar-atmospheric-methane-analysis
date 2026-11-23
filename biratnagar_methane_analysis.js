@@ -1,6 +1,6 @@
 // =====================================================================
 // BIRATNAGAR ATMOSPHERIC METHANE STUDY
-// Sentinel-5P XCH4 and environmental drivers, 2019–2025
+// Sentinel-5P XCH4 and environmental drivers, (2019–2025)
 
 // =====================================================================
 // 1. CONFIGURATION
